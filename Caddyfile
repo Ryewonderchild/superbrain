@@ -1,0 +1,4 @@
+ryewonderchild.com, www.ryewonderchild.com {
+  encode zstd gzip
+  reverse_proxy web:80
+}
