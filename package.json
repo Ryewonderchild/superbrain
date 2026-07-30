@@ -2,6 +2,7 @@
   "name": "superbrain-graph-kms",
   "version": "0.1.0",
   "private": true,
+  "license": "AGPL-3.0-only",
   "description": "关联图数据库知识管理系统",
   "workspaces": [
     "api",

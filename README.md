@@ -81,3 +81,11 @@ docker compose exec api npm run seed
 - `Axiom`：经过发布、观察和版本治理的公共断言
 
 三维图只呈现实体与实体关系。事实、公理、假设和观察分别保留在证据与治理界面。
+
+## 许可证
+
+Copyright (C) 2026 Ryewonderchild
+
+本项目依据 [GNU Affero General Public License v3.0](LICENSE) 授权，使用 SPDX 标识 `AGPL-3.0-only`。
+
+你可以在许可证约束下使用、研究、修改和分发本项目。修改后的版本通过网络向用户提供服务时，必须按照 AGPL v3 第 13 条向这些用户提供对应源代码。
